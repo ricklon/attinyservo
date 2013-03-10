@@ -14,6 +14,7 @@ Arduino Core
 Servo
 ====
 * Servo Library: https://github.com/fri000/Servo8Bit
+* Installation: http://www.cunningturtle.com/servo8bit-library-version-0-6-released/
 
 
 Social Hardware:
