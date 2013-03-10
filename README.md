@@ -9,6 +9,11 @@ Arduino Core
 ====
 * Attiny Core Google, https://code.google.com/p/arduino-tiny/
 * Hi Tech LoTech Core, http://hlt.media.mit.edu/?p=1695
+* 
+
+Servo
+====
+* Servo Library: https://github.com/fri000/Servo8Bit
 
 
 Social Hardware:
